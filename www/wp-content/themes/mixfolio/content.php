@@ -82,7 +82,7 @@
 		<?php endif; // End if 'post' == get_post_type(); ?>
 
 		<?php if ( comments_open() || ( '0' != get_comments_number() && ! comments_open() ) ) : ?>
-			<span class="comments-link"><?php comments_popup_link( __( 'Leave a comment', 'mixfolio' ), __( '1 Comment', 'mixfolio' ), __( '% Comments', 'mixfolio' ) ); ?></span>
+			<span class="comments-link"><?php comments_popup_link( __( 'Commenter', 'mixfolio' ), __( '1 Comment', 'mixfolio' ), __( '% Comments', 'mixfolio' ) ); ?></span>
 			<span class="sep"> | </span>
 		<?php endif; ?>
 
