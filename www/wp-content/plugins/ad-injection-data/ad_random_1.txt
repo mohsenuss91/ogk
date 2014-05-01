@@ -1,0 +1,1 @@
+<div class="vshop" data-key="vfrcb" data-tracking="pubjeux" data-keyword="jeux, mobile" data-minPrice="1" data-maxPrice="2000" data-color="8A8EFF" style="width: 200px;"></div> <script type="text/javascript" src="http://www.vshop.fr/js/freak2.js"></script>
